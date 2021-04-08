@@ -221,12 +221,12 @@ h1 {
   align-items: center;
 }
 
-/*.colordiv{
-    width: 15px;
-    height: 15px;
+.colordiv {
+  width: 15px;
+  height: 15px;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
