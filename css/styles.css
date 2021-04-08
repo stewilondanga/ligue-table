@@ -140,11 +140,12 @@ h1 {
   }
 }
 
-/*#clteam{
-    background-color: #80aa3b;
-    color: white;
+#clteam {
+  background-color: #80aa3b;
+  color: white;
 }
-#clplayoff{
+
+/*#clplayoff{
     background-color: #5f891a;
     color: white;
 }
