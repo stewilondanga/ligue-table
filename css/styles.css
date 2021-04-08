@@ -160,10 +160,11 @@ h1 {
   color: white;
 }
 
-/*#teams td, #teams th {
-    padding: 8px;
+#teams td, #teams th {
+  padding: 8px;
 }
-#teams td{
+
+/*#teams td{
     text-align: center;
 }
 .borederleft{
