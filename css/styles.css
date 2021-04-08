@@ -203,10 +203,11 @@ h1 {
   }
 }
 
-/*#teams tr{
-    background-color: #eeeeee;
+#teams tr {
+  background-color: #eeeeee;
 }
-#teams th {
+
+/*#teams th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
