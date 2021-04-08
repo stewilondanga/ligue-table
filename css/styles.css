@@ -172,10 +172,11 @@ h1 {
   border-top-left-radius: 6px;
 }
 
-/*.borderright{
-    border-top-right-radius: 6px;
+.borderright {
+  border-top-right-radius: 6px;
 }
-.borderbottomleft{
+
+/*.borderbottomleft{
     border-bottom-left-radius: 6px;
 }
 .borderbottomright{
