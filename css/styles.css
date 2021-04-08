@@ -185,11 +185,12 @@ h1 {
 }
 
 @media screen and (max-width: 500px) {
-  /*  #tn{
-        display: none;
-    }
+  #tn {
+    display: none;
+  }
 }
-#teamsnames{
+
+/*#teamsnames{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
