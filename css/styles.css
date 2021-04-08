@@ -164,10 +164,11 @@ h1 {
   padding: 8px;
 }
 
-/*#teams td{
-    text-align: center;
+#teams td {
+  text-align: center;
 }
-.borederleft{
+
+/*.borederleft{
     border-top-left-radius: 6px;
 }
 .borderright{
