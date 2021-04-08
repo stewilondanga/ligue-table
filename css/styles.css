@@ -190,13 +190,14 @@ h1 {
   }
 }
 
-/*#teamsnames{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
+#teamsnames {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
 }
-@media screen and (max-width: 500px){
+
+/*@media screen and (max-width: 500px){
     #teamsnames{
         justify-content: center;
     }
