@@ -197,12 +197,13 @@ h1 {
   align-items: center;
 }
 
-/*@media screen and (max-width: 500px){
-    #teamsnames{
-        justify-content: center;
-    }
+@media screen and (max-width: 500px) {
+  #teamsnames {
+    justify-content: center;
+  }
 }
-#teams tr{
+
+/*#teams tr{
     background-color: #eeeeee;
 }
 #teams th {
