@@ -115,10 +115,11 @@ body {
   transition-delay: 0.4s;
 }
 
-/*h1{
-    text-align: center;
+h1 {
+  text-align: center;
 }
-#content{
+
+/*#content{
     background-color: transparent;
 }
 #teams {
