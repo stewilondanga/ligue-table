@@ -150,11 +150,12 @@ h1 {
   color: white;
 }
 
-/*#elteams{
-    background-color: #bd910a;
-    color: white;
+#elteams {
+  background-color: #bd910a;
+  color: white;
 }
-#downteams{
+
+/*#downteams{
     background-color: #a6322e;
     color: white;
 }
