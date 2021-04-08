@@ -135,11 +135,12 @@ h1 {
     width: 100%;
   }
 
-  /*#teams {
-        width: 100%;
-    }
+  #teams {
+    width: 100%;
+  }
 }
-#clteam{
+
+/*#clteam{
     background-color: #80aa3b;
     color: white;
 }
