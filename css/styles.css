@@ -176,10 +176,11 @@ h1 {
   border-top-right-radius: 6px;
 }
 
-/*.borderbottomleft{
-    border-bottom-left-radius: 6px;
+.borderbottomleft {
+  border-bottom-left-radius: 6px;
 }
-.borderbottomright{
+
+/*.borderbottomright{
     border-bottom-right-radius: 6px;
 }
 @media screen and (max-width: 500px){
