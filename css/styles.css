@@ -155,11 +155,12 @@ h1 {
   color: white;
 }
 
-/*#downteams{
-    background-color: #a6322e;
-    color: white;
+#downteams {
+  background-color: #a6322e;
+  color: white;
 }
-#teams td, #teams th {
+
+/*#teams td, #teams th {
     padding: 8px;
 }
 #teams td{
