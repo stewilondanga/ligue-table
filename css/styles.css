@@ -184,8 +184,8 @@ h1 {
   border-bottom-right-radius: 6px;
 }
 
-/*@media screen and (max-width: 500px){
-    #tn{
+@media screen and (max-width: 500px) {
+  /*  #tn{
         display: none;
     }
 }
