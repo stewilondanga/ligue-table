@@ -7,6 +7,13 @@ html, body {
   background-color: #fafafa;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .share__icon {
   width: 32px;
   height: 32px;
@@ -108,12 +115,6 @@ html, body {
   transition-delay: 0.4s;
 }
 
-body{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
 h1{
     text-align: center;
 }
