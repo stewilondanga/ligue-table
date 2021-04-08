@@ -145,11 +145,12 @@ h1 {
   color: white;
 }
 
-/*#clplayoff{
-    background-color: #5f891a;
-    color: white;
+#clplayoff {
+  background-color: #5f891a;
+  color: white;
 }
-#elteams{
+
+/*#elteams{
     background-color: #bd910a;
     color: white;
 }
