@@ -123,13 +123,14 @@ h1 {
   background-color: transparent;
 }
 
-/*#teams {
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
-    background-color: transparent;
-    border-radius: 6px;
+#teams {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+  background-color: transparent;
+  border-radius: 6px;
 }
-@media screen and (max-width: 500px){
+
+/*@media screen and (max-width: 500px){
     #content{
         width: 100%;
     }
