@@ -168,10 +168,11 @@ h1 {
   text-align: center;
 }
 
-/*.borederleft{
-    border-top-left-radius: 6px;
+.borederleft {
+  border-top-left-radius: 6px;
 }
-.borderright{
+
+/*.borderright{
     border-top-right-radius: 6px;
 }
 .borderbottomleft{
