@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -105,6 +105,110 @@ body {
 
 .share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
+}
+
+html, body{
+    margin: 0 auto;
+    padding: 0 auto;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    background-color: #fafafa;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+#content{
+    background-color: transparent;
+}
+#teams {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+    background-color: transparent;
+    border-radius: 6px;
+}
+@media screen and (max-width: 500px){
+    #content{
+        width: 100%;
+    }
+    #teams {
+        width: 100%;
+    }
+}
+#clteam{
+    background-color: #80aa3b;
+    color: white;
+}
+#clplayoff{
+    background-color: #5f891a;
+    color: white;
+}
+#elteams{
+    background-color: #bd910a;
+    color: white;
+}
+#downteams{
+    background-color: #a6322e;
+    color: white;
+}
+#teams td, #teams th {
+    padding: 8px;
+}
+#teams td{
+    text-align: center;
+}
+.borederleft{
+    border-top-left-radius: 6px;
+}
+.borderright{
+    border-top-right-radius: 6px;
+}
+.borderbottomleft{
+    border-bottom-left-radius: 6px;
+}
+.borderbottomright{
+    border-bottom-right-radius: 6px;
+}
+@media screen and (max-width: 500px){
+    #tn{
+        display: none;
+    }
+}
+#teamsnames{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+@media screen and (max-width: 500px){
+    #teamsnames{
+        justify-content: center;
+    }
+}
+#teams tr{
+    background-color: #eeeeee;
+}
+#teams th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #e0e0e0;
+}
+.tableinfo{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.colordiv{
+    width: 15px;
+    height: 15px;
 }
 
 #contact h1 {
