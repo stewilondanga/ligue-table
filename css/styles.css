@@ -207,13 +207,14 @@ h1 {
   background-color: #eeeeee;
 }
 
-/*#teams th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: center;
-    background-color: #e0e0e0;
+#teams th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #e0e0e0;
 }
-.tableinfo{
+
+/*.tableinfo{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
